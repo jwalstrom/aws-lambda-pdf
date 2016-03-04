@@ -1,0 +1,14 @@
+{
+  "name": "aws-lambda-pdf",
+  "version": "1.0.0",
+  "description": "Convert a URL to PDF using wkhtmltopdf on AWS Lambda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+     "wkhtmltopdf": "^0.1.5"
+  }
+}
